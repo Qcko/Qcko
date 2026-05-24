@@ -8,6 +8,7 @@ and the glue that makes agentic workflows work in production.
 - 🤖 [Glados](https://github.com/Qcko/Glados) — local-first voice AI assistant with pluggable STT/TTS/LLM and MCP servers
 - 🎨 [comfyui-mcp](https://github.com/Qcko/comfyui-mcp) — MCP bridge from Claude Code to ComfyUI for FLUX image generation
 - 🛡️ [localguard](https://github.com/Qcko/localguard) — local-first supply-chain auditor for pip / uv / npm installs
+- 🎯 [LifeQuest](https://github.com/Thystgar/LifeQuest) — gamification of household chores with an MCP server (collaboration with @Thystgar)
 
 **Claude Code ecosystem**
 
